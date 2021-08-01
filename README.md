@@ -1,3 +1,3 @@
 # NLP / Sentiment Analysis
 ## Completed
-* Stock News sentiment using NLTK and word cloud generation
+* Stock News extracted from Finviz analysed with NLTK Vader and Word Cloud.
